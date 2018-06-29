@@ -1,5 +1,5 @@
 const clientId = 'f23300cf832f4b699329d231e4118ec6';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'https://monty-jamming.herokuapp.com/';
 
 let accessToken;
 
